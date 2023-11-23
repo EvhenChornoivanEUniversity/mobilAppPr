@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">pr1</string>
+    <string name="main_text">Виберіть що ви хочете зробити, прочтитати матеріал або пройти тестування</string>
+    <string name="mat_Title">ЯК ПРАВИЛЬНО ГОТУВАТИ РИС</string>
+    <string name="mat_intro">У світі існує безліч видів рису. Сьогодні поговоримо про ті види, які найбільш поширені в Україні. Розповім вам про те, які існують види і способи обробки рису і як правильно варити той чи інший вид.</string>
+    <string name="mat_groupTitle">ГРУПИ РИСУ ЗА РОЗМІРОМ</string>
+    <string name="mat_group">Залежно від розміру рисинок рис ділиться на три основні групи. Це круглозернистий, середньозернистий і довгозернистий рис. Крім смакових відмінностей у кожному з цих видів рису міститься різна кількість крохмалю. Найбільше крохмалю у круглозернистому рисі, тому він найчастіше виходить більш клейким після відварювання. Відповідно у середньозернистому крохмалю менше і у довгозернистому його найменша кількість, тому цей рис завжди виходить більш розсипчастим.</string>
+    <string name="mat_methodsTitle">СПОСОБИ ОБРОБКИ РИСУ</string>
+    <string name="mat_methods">Існує рис, який не піддається обробці, тобто його не шліфують. Часто він має темний або чорний колір. В такому рисі міститься найбільша кількість корисних речовин, але при цьому він потребує найбільш довгої термічної обробки.
+
+Всі інші види рису вважаються обробленими, тобто вони шліфуються. Але шліфування теж бувають різними. Є паровий рис, шліфування якого відбувається за допомогою пари. Пропарений рис теж містить досить багато корисних речовин.
+
+Найбільш поширеним все ж залишається шліфований білий рис, хоч у ньому і залишається найменша кількість поживних речовин. Своєю популярністю він зобов’язаний тому, що готується він дуже швидко.</string>
+
+    <string name="mat_howToDoTitle">ЯК ВАРИТИ РИС</string>
+    <string name="mat_howToDo1">Існують спеціальні рисоварки або відповідні режими для рису в мультиварці. Але не біда, якщо у вас немає цих девайсів – зварити ідеальний рис в простому сотейнику або каструлі теж досить просто.
+
+Для прикладу я вибрав пропарений довгозернистий рис, так як він здається мені ідеальним і за вмістом корисних речовин, і за часом приготування, і за ціною.</string>
+
+    <string name="mat_howToDo2">Для рису важливі пропорції. Щоб він вийшов ідеальним, використовуйте 1 частину рису і 2 частини води. Після того, як закипить вода, дайте рису покипіти 5 хвилин, потім вимкніть вогонь, накрийте кришкою сотейник і дайте так постояти приблизно хвилин 15.
+
+Цей спосіб підходить для будь-якого виду рису, буде відрізнятися лише сам час. Для круглозернистого рису час потрібно зменшити хвилин на 5, для нешліфованого – збільшити хвилин на 15. Зазвичай інструкції по часу приготування є і на самій упаковці.
+
+Готувати – це просто!</string>
+
+    <string name="btn_mat_test">ПРОЙТИ ТЕСТУВАННЯ</string>
+    <string name="test_Title">ЯК ПРАВИЛЬНО ГОТУВАТИ РИС</string>
+
+    <string name="test_subTitle">Тестування</string>
+    <string name="test_question1">Що ми будемо готувати?</string>
+    <string name="test_question2">На скільки груп ділиться рис?</string>
+    <string name="test_question3">Рис якого коліру не піддаєтсья обробці?</string>
+    <string name="test_question4">Який найпопулярніший вид рису?</string>
+    <string name="test_question5">Скільки балів отримає студент за цей проект?</string>
+
+    <string name="test_q1_answer1">Рис</string>
+
+    <string name="test_q2_answer1">3</string>
+
+    <string name="test_q3_answer1">Темного</string>
+    <string name="test_q3_answer2">Рожевого</string>
+    <string name="test_q3_answer3">Синього</string>
+    <string name="test_q3_answer4">Червоного</string>
+
+    <string name="test_q4_answer1">Білий шліфований</string>
+    <string name="test_q4_answer2">Темний</string>
+    <string name="test_q4_answer3">Необроблений</string>
+    <string name="test_q4_answer4">Смачний</string>
+
+    <string name="test_q5_answer1">Максимум</string>
+    <string name="test_q5_answer2">Я подумаю</string>
+
+    <string name="test_btn_EndTest">Перевірити</string>
+
+    <string name="title_activity_test_page">TestPage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+</resources>
